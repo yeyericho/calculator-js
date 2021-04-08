@@ -108,4 +108,5 @@ keys.addEventListener('click', event => {
     }
 
     updateDisplay();
+
 });
